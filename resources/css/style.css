@@ -1,0 +1,38 @@
+
+body {
+  background-color: black;
+  text-align: center;
+  color: white;
+  font-family: Verdana, sans-serif;
+}
+
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  font-family: Verdana;
+  font-size: 42px;
+  font-weight: 300;
+}
+
+.download_link {
+  color: aquamarine;
+  font-size: 16px;
+  font-family: Verdana;
+}
+
+.features {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+.bottom {
+  color: gray;
+  text-align: right;
+}
